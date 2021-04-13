@@ -1,2 +1,6 @@
 merhaba ben FAtih
+<<<<<<< HEAD
 suan main branchdayım
+=======
+Nasılsın
+>>>>>>> devoloper-c8231-fatih
